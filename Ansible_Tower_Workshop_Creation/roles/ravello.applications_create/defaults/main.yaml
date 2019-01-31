@@ -51,7 +51,7 @@ ravello_vms_list:
 - { vm_name: CloudForms, description: CloudForms Cloud Management Engine Portal }
 
 ravello_tmp_dir: /tmp/ravello
-ravello_expiration_time_min: 300
+ravello_expiration_time_min: 540
 
 ravello_fqdn_dir: AnsibleTower-Workshop
 
